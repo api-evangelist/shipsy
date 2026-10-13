@@ -1,0 +1,117 @@
+generated: '2026-10-13'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 8
+  own: 5
+  other_domain: 3
+  platform: 0
+  roles:
+  - api
+  - identity
+  - other
+  - portal
+  - website
+hosts:
+- host: api.shipsy.ai
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: shipsy.ai
+  role: api
+  relation: other-domain
+- host: api.shipsy.io
+  found_by:
+  - probed
+  - site-links
+  - namespace-probe
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  status: 200
+  registrable_domain: shipsy.io
+  role: api
+  relation: own
+- host: app.shipsy.io
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: shipsy.io
+  role: other
+  relation: own
+- host: knowledge.shipsy.ai
+  found_by:
+  - pointer
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - GettingStarted
+  - Documentation
+  - DeveloperPortal
+  serves:
+  - docs
+  - hosting
+  vendor: vercel
+  registrable_domain: shipsy.ai
+  role: portal
+  relation: other-domain
+- host: shipsy.io
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: shipsy.io
+  role: other
+  relation: own
+- host: trust.shipsy.io
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - well-known
+  types:
+  - Compliance
+  serves: []
+  registrable_domain: shipsy.io
+  role: other
+  relation: own
+- host: www.shipsy.ai
+  found_by:
+  - pointer
+  - apis[]
+  - probed
+  - contract-discovery
+  - well-known
+  types:
+  - Newsroom
+  - SignUp
+  - PrivacyPolicy
+  serves:
+  - api
+  - docs
+  registrable_domain: shipsy.ai
+  role: identity
+  relation: other-domain
+- host: www.shipsy.io
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  types:
+  - Website
+  serves: []
+  registrable_domain: shipsy.io
+  role: website
+  relation: own

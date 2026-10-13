@@ -1,23 +1,105 @@
 aid: shipsy
+
 name: Shipsy
-description: 'Shipsy is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and
-  added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.shipsy.ai/og-image.png
+
+description: Shipsy provides an AI‑native logistics platform offering Transportation Management System (TMS) and Warehouse Management System (WMS)
+  capabilities. The cloud‑based solution automates shipment planning, carrier selection, real‑time tracking, route optimization, and inventory
+  accuracy for enterprises worldwide. Recognized in the 2026 Gartner Magic Quadrant for TMS, Shipsy serves over 150 global customers across 30+
+  countries, delivering AI‑driven insights and end‑to‑end visibility across the supply chain.
+
 url: https://raw.githubusercontent.com/api-evangelist/shipsy/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:tag-qc
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-13 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-13'
+
 modified: '2026-10-13'
+
 tags:
+- Logistics
+- AI
+- Transportation
+- Warehouse
+- SaaS
 - Company
-apis: []
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: TermsOfService
+  url: https://www.shipsy.ai/terms-and-conditions
+- type: AgenticAccess
+  url: agentic-access/shipsy-agentic-access.yml
+- type: Spectral
+  url: rules/shipsy-rules.yml
+- type: JSONLD
+  url: json-ld/shipsy-context.jsonld
+- type: Vocabulary
+  url: vocabulary/shipsy-vocabulary.yml
+- type: AgentSkill
+  url: skills/_index.yml
+- type: DataModel
+  url: data-model/shipsy-data-model.yml
+- type: Compliance
+  url: https://trust.shipsy.io/
+- type: Authentication
+  url: authentication/shipsy-authentication.yml
+- type: ErrorCatalog
+  url: errors/shipsy-problem-types.yml
+- type: Conformance
+  url: conformance/shipsy-conformance.yml
+- type: LLMsTxt
+  url: llms/shipsy-llms.txt
+- type: Hosts
+  url: hosts/shipsy-hosts.yml
+- type: Vendors
+  url: vendors/shipsy-vendors.yml
+- type: Newsroom
+  url: https://www.shipsy.ai/news
+- type: GettingStarted
+  url: https://knowledge.shipsy.ai/help/core-platform/how-to-enable-and-disable-app-user--xcgbwdmu
+- type: TrustCenter
+  url: security/shipsy-trust-center.yml
+- type: DomainSecurity
+  url: security/shipsy-domain-security.yml
 - type: Website
   url: https://www.shipsy.io
+- type: Documentation
+  url: https://knowledge.shipsy.ai/help
+- type: DeveloperPortal
+  url: https://knowledge.shipsy.ai/help
+- type: SignUp
+  url: https://www.shipsy.ai/request-a-demo
+- type: PrivacyPolicy
+  url: https://www.shipsy.ai/privacy-policy
+
+apis:
+- aid: shipsy:shipsy-website-ai-api
+  name: Shipsy Website AI API
+  description: AI assistant endpoints for the shipsy.ai website. Not the logistics platform API.
+  humanURL: https://www.shipsy.ai/developers
+  baseURL: https://www.shipsy.ai
+  tags:
+  - Website AI
+  properties:
+  - type: OpenAPI
+    url: openapi/shipsy-website-ai-api-openapi.yml
+x-enrichment:
+  date: '2026-10-13'
+  status: enriched
+  artifacts_added: 21
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

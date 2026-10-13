@@ -1,0 +1,442 @@
+# Shipsy Knowledge Base
+
+> Product documentation, configuration walkthroughs, and operational playbooks for the Shipsy logistics SaaS platform.
+
+This knowledge base contains 315 articles organised across 22 product modules. Articles include screenshots and step-by-step instructions for configuring and operating Shipsy. The original source is helpcentre.shipsy.io.
+
+Each article is also available as raw markdown by appending `.md` to its URL — e.g. `/help/business-booking-engine/customer-portal-analytics--fzyek98s.md`.
+
+## Modules
+
+### Core Platform
+
+Masters, hubs, users, configurations — the foundation of every Shipsy deployment
+
+- [Active and Deactivated Rider setup](https://knowledge.shipsy.ai/help/core-platform/how-to-enable-and-disable-app-user--xcgbwdmu): 5 images, 993 chars
+- [Active and Deactivated Rider setup](https://knowledge.shipsy.ai/help/core-platform/active-deactivate-riders--oezkmyku): 7 images, 961 chars
+- [Active and Disabled Hub setup](https://knowledge.shipsy.ai/help/core-platform/how-to-enable-disable-hub--d-hqgn_q): 6 images, 986 chars
+- [Active and Disabled Hub setup](https://knowledge.shipsy.ai/help/core-platform/active-disabled-hub--1pctwqob): 8 images, 993 chars
+- [Active and Disabled Vehicle setup](https://knowledge.shipsy.ai/help/core-platform/active-disabled-vehicles--szp9am1j): 6 images, 979 chars
+- [Add order via form](https://knowledge.shipsy.ai/help/core-platform/add-order-via-form--ylc18fmm): 3 images, 1405 chars
+- [Adhoc Roster](https://knowledge.shipsy.ai/help/core-platform/adhoc-roster--u04dwobb): 4 images, 1490 chars
+- [Analytics tab](https://knowledge.shipsy.ai/help/core-platform/analytics-tab--nbqboj_i): 3 images, 717 chars
+- [Apply filters through dashboard](https://knowledge.shipsy.ai/help/core-platform/apply-filters-through-dashboard--q6cdvbz7): 2 images, 179 chars
+- [Bulk Upload Order Creation](https://knowledge.shipsy.ai/help/core-platform/create-order-through-bulk-upload--04sho6v5): 2 images, 2989 chars
+- [Code Free Label](https://knowledge.shipsy.ai/help/core-platform/code-free-label--bwgtdat5): 1 images, 687 chars
+- [Config Creation setup](https://knowledge.shipsy.ai/help/core-platform/cod-management--oruqlyyq): 4 images, 292 chars
+- [Config Creation setup](https://knowledge.shipsy.ai/help/core-platform/parking-slot--b-cqnqsm): 4 images, 292 chars
+- [Config Object Creation setup](https://knowledge.shipsy.ai/help/core-platform/hub-level-configurations--q9dycbrs): 6 images, 974 chars
+- [Create order in demo environment through inputting order info in dispatch screen](https://knowledge.shipsy.ai/help/core-platform/create-order-in-demo-environment-through-inputting-order-info-in-dispatch-screen--rb5r9ssw): 3 images, 786 chars
+- [Creation of Rider](https://knowledge.shipsy.ai/help/core-platform/creation-of-rider--rljaqtvk): 5 images, 2379 chars
+- [Destination Hub Allocation](https://knowledge.shipsy.ai/help/core-platform/destination-hub-allocation--v56nzlrq): 1 images, 398 chars
+- [Download Hub Data](https://knowledge.shipsy.ai/help/core-platform/download-hub-data--q-meeey2): 2 images, 292 chars
+- [Download Rider List](https://knowledge.shipsy.ai/help/core-platform/download-rider-list--2ovwhmyz): 2 images, 201 chars
+- [Download Vehicle List](https://knowledge.shipsy.ai/help/core-platform/download-vehicle-list--adownid8): 2 images, 204 chars
+- [Edit Hub Category](https://knowledge.shipsy.ai/help/core-platform/edit-hub-category--4qb8tyav): 3 images, 305 chars
+- [Edit Hub Details](https://knowledge.shipsy.ai/help/core-platform/edit-hub-details--mzxn2-uy): 5 images, 784 chars
+- [Edit Rider Details](https://knowledge.shipsy.ai/help/core-platform/edit-rider-details--xr_idhxu): 5 images, 1279 chars
+- [Edit vehicle details](https://knowledge.shipsy.ai/help/core-platform/edit-vehicle-details--tvrcj8jv): 4 images, 813 chars
+- [Express Booking Masters](https://knowledge.shipsy.ai/help/core-platform/express-booking-masters--jmnktngq): 1 images, 527 chars
+- [Give break to Rider](https://knowledge.shipsy.ai/help/core-platform/give-break-to-rider--8saeohwf): 2 images, 301 chars
+- [How to add a new message template?](https://knowledge.shipsy.ai/help/core-platform/how-to-add-a-new-message-template--1wj8pwem): 9 images, 652 chars
+- [How to add Address Hierarchy](https://knowledge.shipsy.ai/help/core-platform/how-to-add-address-hierarchy--vrhcpenq): 9 images, 1134 chars
+- [How to add app flow config rule](https://knowledge.shipsy.ai/help/core-platform/how-to-add-app-flow-config-rule--e30fn9_5): 7 images, 485 chars
+- [How to add Destination Master](https://knowledge.shipsy.ai/help/core-platform/how-to-add-destination-master--xswfzg8s): 9 images, 614 chars
+- [How to add KYC mandatory fields](https://knowledge.shipsy.ai/help/core-platform/how-to-add-kyc-mandatory-fields--lgqtgs0_): 7 images, 470 chars
+- [How to add new ADM Auth](https://knowledge.shipsy.ai/help/core-platform/how-to-add-new-adm-auth--gmv0bldw): 9 images, 1207 chars
+- [How to add new config object](https://knowledge.shipsy.ai/help/core-platform/how-to-add-new-config-object--kcgexpb_): 7 images, 451 chars
+- [How to add new customer](https://knowledge.shipsy.ai/help/core-platform/how-to-add-new-customer--q2ajhusj): 9 images, 859 chars
+- [How to add new Destination Type](https://knowledge.shipsy.ai/help/core-platform/how-to-add-new-destination-type--mp4wl7zc): 6 images, 409 chars
+- [How to add new hub category](https://knowledge.shipsy.ai/help/core-platform/how-to-add-new-hub-category--zdzmstxc): 3 images, 970 chars
+- [How to add new Receiver's Relation](https://knowledge.shipsy.ai/help/core-platform/how-to-add-new-receivers-relation--dzw_48ru): 3 images, 493 chars
+- [How to add Not Picked Up reasons](https://knowledge.shipsy.ai/help/core-platform/how-to-add-not-picked-up-reasons--te7eejn8): 9 images, 692 chars
+- [How to add rescheduled reasons](https://knowledge.shipsy.ai/help/core-platform/how-to-add-rescheduled-reasons--_d_9rtwy): 7 images, 638 chars
+- [How to add Servicability Master](https://knowledge.shipsy.ai/help/core-platform/how-to-add-servicability-master--vo9jblyr): 9 images, 533 chars
+- [How to add service type](https://knowledge.shipsy.ai/help/core-platform/how-to-add-service-type--d7y7x7jn): 7 images, 504 chars
+- [How to add TAT Master](https://knowledge.shipsy.ai/help/core-platform/how-to-add-tat-master--yrucqxjk): 3 images, 577 chars
+- [How to add undelivered reasons](https://knowledge.shipsy.ai/help/core-platform/how-to-add-undelivered-reasons--vcafcl8r): 7 images, 704 chars
+- [How to assign employee type/ role to an employee](https://knowledge.shipsy.ai/help/core-platform/how-to-assign-employee-type-role-to-an-employee--ql4dw0v3): 9 images, 1166 chars
+- [How to create a customer allocation rule](https://knowledge.shipsy.ai/help/core-platform/how-to-create-a-customer-allocation-rule--x0_2vdol): 9 images, 943 chars
+- [How to create a Pincode Master](https://knowledge.shipsy.ai/help/core-platform/how-to-create-a-pincode-master--nyiyxupd): 10 images, 1075 chars
+- [How to create an Employee](https://knowledge.shipsy.ai/help/core-platform/how-to-create-an-employee--jjh3avrm): 9 images, 1189 chars
+- [How to create an invoice?](https://knowledge.shipsy.ai/help/core-platform/how-to-create-an-invoice--7yh9jaip): 5 images, 1054 chars
+- [How to create app user](https://knowledge.shipsy.ai/help/core-platform/how-to-create-app-user--swcloqte): 2 images, 2386 chars
+- [How to create category type for app user](https://knowledge.shipsy.ai/help/core-platform/how-to-create-category-type-for-app-user--zbdvuaw6): 5 images, 465 chars
+- [How to create coordinator auth rule](https://knowledge.shipsy.ai/help/core-platform/how-to-create-coordinator-auth-rule--un1xsv_a): 10 images, 2107 chars
+- [How to create employee type and add permissions](https://knowledge.shipsy.ai/help/core-platform/how-to-create-employee-type-and-add-permissions--njtx17ln): 6 images, 618 chars
+- [How to create shelf](https://knowledge.shipsy.ai/help/core-platform/how-to-create-shelf--y67nrvxl): 11 images, 1037 chars
+- [How to delete ADM Auth](https://knowledge.shipsy.ai/help/core-platform/how-to-delete-adm-auth--s9hcahuv): 8 images, 1122 chars
+- [How to delete allocation rule](https://knowledge.shipsy.ai/help/core-platform/how-to-delete-allocation-rule--4_rrpma1): 9 images, 1194 chars
+- [How to delete an existing message template?](https://knowledge.shipsy.ai/help/core-platform/how-to-delete-an-existing-message-template--fpxravwj): 6 images, 232 chars
+- [How to delete app flow config rule](https://knowledge.shipsy.ai/help/core-platform/how-to-delete-app-flow-config-rule--cfwve9ea): 7 images, 387 chars
+- [How to delete coordinator auth rule](https://knowledge.shipsy.ai/help/core-platform/how-to-delete-coordinator-auth-rule--5w47nvzq): 8 images, 1173 chars
+- [How to delete KYC fields](https://knowledge.shipsy.ai/help/core-platform/how-to-delete-kyc-fields--edrcgdxz): 6 images, 434 chars
+- [How to delete roles assigned to an employee](https://knowledge.shipsy.ai/help/core-platform/how-to-delete-roles-assigned-to-an-employee--wx0orniw): 11 images, 1333 chars
+- [How to delete Shelf](https://knowledge.shipsy.ai/help/core-platform/how-to-delete-shelf--p1nmwbkz): 11 images, 967 chars
+- [How to disable an employee](https://knowledge.shipsy.ai/help/core-platform/how-to-disable-an-employee--ulcmzerj): 7 images, 749 chars
+- [How to download active app user data](https://knowledge.shipsy.ai/help/core-platform/how-to-download-active-app-user-data--bpd8f8ef): 2 images, 207 chars
+- [How to download Address Hierarchy details](https://knowledge.shipsy.ai/help/core-platform/how-to-download-address-hierarchy-details--zl_mmvmr): 6 images, 292 chars
+- [How to download ADM Auth Data](https://knowledge.shipsy.ai/help/core-platform/how-to-download-adm-auth-data--tabjhjag): 5 images, 200 chars
+- [How to download all Pincode Allocation Rules](https://knowledge.shipsy.ai/help/core-platform/how-to-download-all-pincode-allocation-rules--nhn4e_p0): 7 images, 371 chars
+- [How to download coordinator auth data](https://knowledge.shipsy.ai/help/core-platform/how-to-download-coordinator-auth-data--ddl0gnbk): 5 images, 216 chars
+- [How to download customer data](https://knowledge.shipsy.ai/help/core-platform/how-to-download-customer-data--ugslnr4p): 4 images, 319 chars
+- [How to download Employee data](https://knowledge.shipsy.ai/help/core-platform/how-to-download-employee-data--dvhkg6yi): 5 images, 292 chars
+- [How to download employee role data](https://knowledge.shipsy.ai/help/core-platform/how-to-download-employee-role-data--igrjlee4): 5 images, 189 chars
+- [How to download hub data](https://knowledge.shipsy.ai/help/core-platform/how-to-download-hub-data--b7m7bhgi): 2 images, 303 chars
+- [How to download hub relations data](https://knowledge.shipsy.ai/help/core-platform/how-to-download-hub-relations-data--n4tuj9ss): 5 images, 229 chars
+- [How to download Shelf details](https://knowledge.shipsy.ai/help/core-platform/how-to-download-shelf-details--dqyxb6ly): 10 images, 716 chars
+- [How to download virtual series dump data](https://knowledge.shipsy.ai/help/core-platform/how-to-download-virtual-series-dump-data--mpu2_aru): 4 images, 348 chars
+- [How to edit a Destination Type](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-a-destination-type--y4lqs8ec): 6 images, 533 chars
+- [How to edit a hub](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-a-hub--iqpw6-qm): 1 images, 781 chars
+- [How to edit Address Hierarchy](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-address-hierarchy--pgfnou_0): 9 images, 964 chars
+- [How to edit allocation rule](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-allocation-rule--arh3yicr): 6 images, 484 chars
+- [How to edit an employee](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-an-employee--jbjx_btn): 5 images, 328 chars
+- [How to edit an existing message template?](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-an-existing-message-template--dfbt-vy8): 8 images, 738 chars
+- [How to Edit app flow config rule](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-app-flow-config-rule--0ishjw7e): 7 images, 507 chars
+- [How to edit app user](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-app-user--dgp-0_gi): 3 images, 1193 chars
+- [How to edit category type for app user](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-category-type-for-app-user--mj91nz25): 6 images, 337 chars
+- [How to edit Destination Master](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-destination-master--csynxzhq): 9 images, 555 chars
+- [How to edit employee permissions](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-employee-permissions--howinbls): 2 images, 787 chars
+- [How to edit existing customer](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-existing-customer--wrteeyjf): 7 images, 775 chars
+- [How to edit existing receiver's relation](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-existing-receivers-relation--2leabplp): 6 images, 398 chars
+- [How to edit Hub category](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-hub-category--asrfk1pw): 2 images, 320 chars
+- [How to edit new config object](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-new-config-object--iapqkrhq): 7 images, 323 chars
+- [How to edit Not Picked Up reasons](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-not-picked-up-reasons--qx8lhhph): 10 images, 657 chars
+- [How to edit rescheduled reasons](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-rescheduled-reasons--utajx2cp): 10 images, 652 chars
+- [How to edit Servicability Master](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-servicability-master--ct9aclkg): 9 images, 553 chars
+- [How to edit service type](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-service-type--ezn6bgvp): 7 images, 617 chars
+- [How to edit TAT Master](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-tat-master--nrczh6v3): 9 images, 582 chars
+- [How to edit the Pincode Master](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-the-pincode-master--cte-1uvy): 11 images, 1064 chars
+- [How to edit undelivered reasons](https://knowledge.shipsy.ai/help/core-platform/how-to-edit-undelivered-reasons--r9wnuo3t): 7 images, 683 chars
+- [How to enable an existing message template?](https://knowledge.shipsy.ai/help/core-platform/how-to-enable-an-existing-message-template--wvg6phlm): 6 images, 309 chars
+- [How to enable employee](https://knowledge.shipsy.ai/help/core-platform/how-to-enable-employee--fjdvzm-l): 5 images, 342 chars
+- [How to print Shelf details](https://knowledge.shipsy.ai/help/core-platform/how-to-print-shelf-details--zxkimo-o): 7 images, 452 chars
+- [How to setup virtual series](https://knowledge.shipsy.ai/help/core-platform/how-to-setup-virtual-series--yvxfbapu): 6 images, 538 chars
+- [How to upload contract rates?](https://knowledge.shipsy.ai/help/core-platform/how-to-upload-contract-rates--xilwtbl8): 6 images, 822 chars
+- [Hub Category Creation](https://knowledge.shipsy.ai/help/core-platform/hub-category-creation--wejdqvjk): 5 images, 953 chars
+- [Hub Creation setup](https://knowledge.shipsy.ai/help/core-platform/how-to-create-hub--8kzwe6en): 2 images, 518 chars
+- [Hub Creation setup](https://knowledge.shipsy.ai/help/core-platform/excel-hub-creation--7vitx8zj): 4 images, 665 chars
+- [Hub Creation setup](https://knowledge.shipsy.ai/help/core-platform/single-hub-creation--qiwpkk4b): 4 images, 1591 chars
+- [Instructions](https://knowledge.shipsy.ai/help/core-platform/editing-an-address--xwxd5uvv): 2 images, 750 chars
+- [Instructions](https://knowledge.shipsy.ai/help/core-platform/adding-an-address--pkjw0ogt): 3 images, 928 chars
+- [Introduction](https://knowledge.shipsy.ai/help/core-platform/shipsy-bi-default-dashboard--k6d0avg4): 1 images, 2429 chars
+- [Inventory Download Request](https://knowledge.shipsy.ai/help/core-platform/inventory-download-request--lz06dkpz): 4 images, 337 chars
+- [List View](https://knowledge.shipsy.ai/help/core-platform/generating-business-pickup-request--ib4pp1hr): 5 images, 778 chars
+- [Manual Allocate Order to Rider](https://knowledge.shipsy.ai/help/core-platform/manual-allocate-order-to-rider--0zwuegcu): 2 images, 318 chars
+- [Mark Order Delivered through Dispatch screen](https://knowledge.shipsy.ai/help/core-platform/mark-order-delivered-through-dispatch-screen--oa_6jfpg): 2 images, 299 chars
+- [Mark riders instore through dashboard](https://knowledge.shipsy.ai/help/core-platform/mark-riders-instore-through-dashboard--jkeg6jnr): 2 images, 141 chars
+- [On demand - How to edit new coordinator individually or via excel](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-edit-new-coordinator-individually-or-via-excel--xjsm9c9l): 3 images, 341 chars
+- [On Demand - How to edit rules individually or via excel](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-edit-rules-individually-or-via-excel--w7j5h65r): 3 images, 707 chars
+- [On Demand - How to edit the area of employee operations against an employee type](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-edit-the-area-of-employee-operations-against-an-employee-type--7dwee_my): 3 images, 224 chars
+- [On Demand -How to add new ADM Auth](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-add-new-adm-auth--nxglj9qf): 9 images, 1207 chars
+- [On Demand -How to assign employee type/ role to an employee](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-assign-employee-type-role-to-an-employee--iim65o8m): 9 images, 1383 chars
+- [On Demand -How to create an Employee](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-create-an-employee--ilbipwyo): 7 images, 1708 chars
+- [On Demand -How to create coordinator auth rule](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-create-coordinator-auth-rule--buunxwox): 10 images, 2131 chars
+- [On Demand -How to create employee type and add permissions](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-create-employee-type-and-add-permissions--kcc2luu5): 5 images, 615 chars
+- [On Demand -How to delete ADM Auth](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-delete-adm-auth--4d7lwif): 7 images, 1121 chars
+- [On Demand -How to delete coordinator auth rule](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-delete-coordinator-auth-rule--nvhwjtci): 8 images, 1198 chars
+- [On Demand -How to delete roles assigned to an employee](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-delete-roles-assigned-to-an-employee--g3cu5hal): 10 images, 1361 chars
+- [On Demand -How to disable an employee](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-disable-an-employee--mcjvmjoz): 7 images, 746 chars
+- [On Demand -How to download active employee data](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-download-active-employee-data--_me-np-8): 4 images, 176 chars
+- [On Demand -How to download coordinator auth data](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-download-coordinator-auth-data--owbwvzoc): 5 images, 211 chars
+- [On Demand -How to download employee role data](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-download-employee-role-data--uphdyly9): 5 images, 188 chars
+- [On Demand -How to edit an employee](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-edit-an-employee--cmyo-0ad): 5 images, 316 chars
+- [On Demand -How to edit employee permissions](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-edit-employee-permissions--d4swb9rg): 6 images, 587 chars
+- [On Demand -How to enable employee](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-enable-employee--vv-dl2wz): 5 images, 344 chars
+- [OnDemand Introduction](https://knowledge.shipsy.ai/help/core-platform/ondemand-introduction--psqes4wj): 1 images, 1010 chars
+- [Partial Pickup](https://knowledge.shipsy.ai/help/core-platform/partial-pickup--vhqsa3il): 4 images, 504 chars
+- [Pickup Hub Allocation](https://knowledge.shipsy.ai/help/core-platform/pickup-hub-allocation--xtda0zbj): 1 images, 376 chars
+- [Planned shift for the rider](https://knowledge.shipsy.ai/help/core-platform/planned-shift-for-the-rider--ludqzfwx): 4 images, 1175 chars
+- [Planned vs Actual Path](https://knowledge.shipsy.ai/help/core-platform/planned-vs-actual-path--c-xpopkx): 2 images, 260 chars
+- [Reallocated order via dispatch screen](https://knowledge.shipsy.ai/help/core-platform/reallocated-order-via-dispatch-screen--vc8tgbza): 3 images, 289 chars
+- [Reassign the Order in Dispatch Screen](https://knowledge.shipsy.ai/help/core-platform/reassign-the-order-in-dispatch-screen--8mfcg6du): 3 images, 290 chars
+- [Receive Picked Up Orders](https://knowledge.shipsy.ai/help/core-platform/receive-picked-up-orders--cmboegtq): 4 images, 815 chars
+- [Reporting Tab](https://knowledge.shipsy.ai/help/core-platform/reporting-tab--mnssama3): 3 images, 248 chars
+- [Search order in Dispatch Screen](https://knowledge.shipsy.ai/help/core-platform/search-order-in-dispatch-screen--zyvyw9an): 2 images, 398 chars
+- [Select Store and using search filters](https://knowledge.shipsy.ai/help/core-platform/select-store-and-using-search-filters--0axqgy4u): 2 images, 845 chars
+- [Shelf Management](https://knowledge.shipsy.ai/help/core-platform/shelf-management--dcbt0xlv): 1 images, 237 chars
+- [Shipsy](https://knowledge.shipsy.ai/help/core-platform/on-demand-how-to-download-adm-auth-data--8k6gtwzw): 1 images, 17 chars
+- [Shipsy Call Centre Process - Enhancement](https://knowledge.shipsy.ai/help/core-platform/how-to-assign-calls-to-the-employee--4dehygye): 5 images, 793 chars
+- [Smart Logistics Managemet Solution](https://knowledge.shipsy.ai/help/core-platform/smart-logistics-managemet-solution--kpegr09): 1 images, 1104 chars
+- [Stop delivery of riders through dashboard](https://knowledge.shipsy.ai/help/core-platform/stop-delivery-of-riders-through-dashboard--kkck0kbe): 2 images, 226 chars
+- [Table level permissions](https://knowledge.shipsy.ai/help/core-platform/table-level-permissions--xhgtreym): 1 images, 1421 chars
+- [Task Allocation](https://knowledge.shipsy.ai/help/core-platform/task-allocation--p5x2fniy): 2 images, 231 chars
+- [Track Order](https://knowledge.shipsy.ai/help/core-platform/track-order--adwkpazc): 3 images, 255 chars
+- [UI changes for the Dashboard](https://knowledge.shipsy.ai/help/core-platform/reorganisation-of-menus-of-shipsy-dashboard--gikcrwk): 3 images, 1389 chars
+- [Unassign the order](https://knowledge.shipsy.ai/help/core-platform/unassign-the-order--vkp7dage): 2 images, 178 chars
+- [User persona: Shipsy BI User](https://knowledge.shipsy.ai/help/core-platform/shipsy-bi-guide--7me_xbue): 1 images, 12593 chars
+- [Using Customer Portal :](https://knowledge.shipsy.ai/help/core-platform/creating-a-single-order-pickup-consignment--nx-ekik9): 3 images, 837 chars
+- [Using View Roster](https://knowledge.shipsy.ai/help/core-platform/using-view-roster--ssqzqn26): 2 images, 221 chars
+- [Vehicle Creation setup](https://knowledge.shipsy.ai/help/core-platform/how-to-create-new-vehicle--fu2xwfzy): 3 images, 1397 chars
+- [View Roster Details](https://knowledge.shipsy.ai/help/core-platform/view-roster-details--zwvu9w1a): 3 images, 175 chars
+- [Week Off](https://knowledge.shipsy.ai/help/core-platform/week-off--a3bnmylu): 5 images, 1113 chars
+- [What is First Mile?](https://knowledge.shipsy.ai/help/core-platform/introduction-first-mile--uomosnp4): 1 images, 576 chars
+- [What is Last Mile?](https://knowledge.shipsy.ai/help/core-platform/introduction-last-mile--ynkmwqxz): 1 images, 482 chars
+
+### Multi-Carrier Management
+
+Orchestrate shipments across multiple third-party carriers
+
+- [Adding New System NDR Reasons](https://knowledge.shipsy.ai/help/multi-carrier-management/adding-new-system-ndr-reasons--yp7g72wo): 4 images, 1573 chars
+- [Carrier Mapping specific settings](https://knowledge.shipsy.ai/help/multi-carrier-management/carrier-mapping-specific-settings--cbhag19w): 8 images, 6580 chars
+- [Carrier Tracking - Explaining settings](https://knowledge.shipsy.ai/help/multi-carrier-management/carrier-tracking-explaining-settings--x2ncnxy8): 3 images, 9136 chars
+- [Create new Custom Mapping](https://knowledge.shipsy.ai/help/multi-carrier-management/create-new-custom-mapping--lgtgecbp): 9 images, 2011 chars
+- [Instructions](https://knowledge.shipsy.ai/help/multi-carrier-management/create-new-custom-mapping--t7wf-ivq): 1 images, 2028 chars
+- [Instructions](https://knowledge.shipsy.ai/help/multi-carrier-management/system-default-mapping-ndr--hct4z5t9): 1 images, 2541 chars
+- [Introduction](https://knowledge.shipsy.ai/help/multi-carrier-management/courier-field-master--ksxhagm1): 21 images, 7167 chars
+- [Link Existing Mapping with carrier account](https://knowledge.shipsy.ai/help/multi-carrier-management/link-existing-mapping-with-carrier-account--cs-ictkv): 3 images, 515 chars
+- [Link mapping with carrier account](https://knowledge.shipsy.ai/help/multi-carrier-management/link-mapping-with-carrier-account--kme3uzg6): 5 images, 481 chars
+- [New Custom Status Mapping](https://knowledge.shipsy.ai/help/multi-carrier-management/new-custom-status-mapping--idnbbwjm): 1 images, 3538 chars
+- [System Default Mapping - Carrier NDR Mapping](https://knowledge.shipsy.ai/help/multi-carrier-management/system-default-mapping-carrier-ndr-mapping--blwgnlwf): 6 images, 2448 chars
+- [System Default Mapping - Carrier Status Mapping](https://knowledge.shipsy.ai/help/multi-carrier-management/system-default-mapping-carrier-status-mapping--tdxtiek3): 3 images, 1595 chars
+- [Understanding each section](https://knowledge.shipsy.ai/help/multi-carrier-management/carrier-tracking--0rx-zw3e): 17 images, 10133 chars
+- [What is Allocation Engine](https://knowledge.shipsy.ai/help/multi-carrier-management/allocation-engine-guidebook--5z52usxm): 5 images, 5756 chars
+- [What is carrier Tracking](https://knowledge.shipsy.ai/help/multi-carrier-management/what-is-carrier-tracking--aopcmr2x): 1 images, 1389 chars
+- [What is Multi-Leg?](https://knowledge.shipsy.ai/help/multi-carrier-management/multileg-orchestration--p30fbcmr): 1 images, 2773 chars
+
+### Integration Marketplace
+
+Connect Shipsy to your ERP, WMS, and commerce platforms
+
+- [How to Create Report](https://knowledge.shipsy.ai/help/integration-marketplace/create-report--pf0otar8): 8 images, 1433 chars
+- [Introduction to the Integration Marketplace](https://knowledge.shipsy.ai/help/integration-marketplace/introduction-to-the-integration-marketplace--cyr7ybq7): 2 images, 1619 chars
+
+### Communication Engine
+
+SMS, email, and notification templates for every logistics event
+
+- [Communication Engine](https://knowledge.shipsy.ai/help/communication-engine/communication-engine--7eouvsin): 1 images, 958 chars
+- [Configuring a Whatsapp Template](https://knowledge.shipsy.ai/help/communication-engine/configuring-a-whatsapp-template--f1czexsf): 5 images, 5116 chars
+- [Configuring an Email Template](https://knowledge.shipsy.ai/help/communication-engine/configuring-an-email-template--jwvknigb): 6 images, 4647 chars
+- [Configuring an SMS Template](https://knowledge.shipsy.ai/help/communication-engine/configuring-an-sms-template--gylvaesg): 5 images, 4148 chars
+- [Editing a Template](https://knowledge.shipsy.ai/help/communication-engine/editing-a-template--kegksxjc): 5 images, 1829 chars
+- [Instructions](https://knowledge.shipsy.ai/help/communication-engine/enable-or-disable-a-template--8fm1shrd): 1 images, 2233 chars
+- [Instructions](https://knowledge.shipsy.ai/help/communication-engine/communication-module-delivery-otp-tag--oeptglrg): 1 images, 371 chars
+- [Setting up a Communication Provider](https://knowledge.shipsy.ai/help/communication-engine/setting-up-a-communication-provider--ngueysov): 5 images, 2268 chars
+
+### Business Booking Engine
+
+Customer portals, B2B bookings, and order management flows
+
+- [Bulk Customer edit](https://knowledge.shipsy.ai/help/business-booking-engine/bulk-customer-edit--1cotdqd): 4 images, 665 chars
+- [Configurations available at the customer Level](https://knowledge.shipsy.ai/help/business-booking-engine/configurations-available-at-the-customer-level--yi0shxvp): 1 images, 983 chars
+- [Creation via Dashboard:](https://knowledge.shipsy.ai/help/business-booking-engine/virtual-series-creation--efdplazd): 5 images, 2564 chars
+- [Customer Portal - Analytics](https://knowledge.shipsy.ai/help/business-booking-engine/customer-portal-analytics--fzyek98s): 4 images, 639 chars
+- [Customer Portal - Analytics](https://knowledge.shipsy.ai/help/business-booking-engine/customer-portal-analytics--vkcls0n): 4 images, 645 chars
+- [Following items are required from the client for going live with the plugin-](https://knowledge.shipsy.ai/help/business-booking-engine/shopify-plugin-go-live-requirements--bspbgihm): 1 images, 1389 chars
+- [Global Virtual Series](https://knowledge.shipsy.ai/help/business-booking-engine/global-virtual-series--nytskf-k): 3 images, 400 chars
+- [Instructions](https://knowledge.shipsy.ai/help/business-booking-engine/single-consignment-booking--pph7iada): 4 images, 515 chars
+- [Instructions](https://knowledge.shipsy.ai/help/business-booking-engine/bulk-consignment-booking--ao9duoqe): 4 images, 861 chars
+- [Instructions](https://knowledge.shipsy.ai/help/business-booking-engine/customise-consignment-and-pickup-dashboard-view--lj7xn_px): 6 images, 2634 chars
+- [Instructions](https://knowledge.shipsy.ai/help/business-booking-engine/pickup-creation--2p_mii0o): 5 images, 563 chars
+- [Instructions](https://knowledge.shipsy.ai/help/business-booking-engine/address-book--ja9t_suy): 4 images, 1138 chars
+- [Magento: User Guide](https://knowledge.shipsy.ai/help/business-booking-engine/magento-user-guide--ulndcy_u): 1 images, 116 chars
+- [Opencart feature guide](https://knowledge.shipsy.ai/help/business-booking-engine/opencart-feature-guide--gpyqxxvs): 2 images, 1500 chars
+- [Password reset- Customer Portal](https://knowledge.shipsy.ai/help/business-booking-engine/password-reset-customer-portal--bvjyxk8z): 2 images, 782 chars
+- [Password reset- Customer Portal](https://knowledge.shipsy.ai/help/business-booking-engine/password-reset-customer-portal--pee3tuml): 4 images, 711 chars
+- [Requirements](https://knowledge.shipsy.ai/help/business-booking-engine/magento-installation-guide--f8wunjbs): 3 images, 1387 chars
+- [Requirements](https://knowledge.shipsy.ai/help/business-booking-engine/installation-guide-opencart--apzsvwbe): 12 images, 3669 chars
+- [Series Consumption Rules](https://knowledge.shipsy.ai/help/business-booking-engine/series-consumption-rules--jq2ed5cz): 4 images, 451 chars
+- [Shopify ecommerce plugin](https://knowledge.shipsy.ai/help/business-booking-engine/shopify-ecommerce-plugin--lfkgrxv9): 1 images, 1802 chars
+- [Single Customer creation](https://knowledge.shipsy.ai/help/business-booking-engine/single-customer-creation--3rkvnada): 3 images, 1841 chars
+- [Virtual Series - Introduction](https://knowledge.shipsy.ai/help/business-booking-engine/virtual-series-introduction--2sax20_6): 4 images, 705 chars
+- [Woocommerce (wordpress) feature guide](https://knowledge.shipsy.ai/help/business-booking-engine/woocommerce-wordpress-feature-guide--shq9x1gd): 1 images, 134 chars
+
+### Hub Operations & Mid Mile
+
+Inbound, outbound, sorting, line-haul, and hub-to-hub movement
+
+- [1. Excess Arrival](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/how-system-applies-exception-automatically--9daje7ai): 7 images, 1235 chars
+- [Apply exception while loading/unloading manually](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/apply-exception-while-loadingunloading-manually--lkqu5gxw): 5 images, 565 chars
+- [Assign Dock](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/dock-in-of-any-vehicle--pyh-stgk): 7 images, 869 chars
+- [Condition based Auto RTO](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/condition-based-auto-rto--dhvcb-tk): 2 images, 576 chars
+- [Consignment Verification](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/consignment-verification--ygdsjfer): 3 images, 507 chars
+- [Consignment Verification in Hub Ops App](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/consignment-verification-in-hub-ops-app--ru9o3s57): 4 images, 970 chars
+- [Create a Console/Mix Bag](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/create-a-consolemix-bag--3juw9gui): 5 images, 1115 chars
+- [Create a Pure Bag](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/create-a-pure-bag--bh8m88x2): 5 images, 1082 chars
+- [Debagging of a bag](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/debagging-of-a-bag--hjn5qski): 3 images, 717 chars
+- [Gate in of any Vehicle](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/gate-in-of-any-vehicle--serffqqd): 3 images, 350 chars
+- [Hamburger menu (
+)](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/hub-ops-app-overview--0bxpbcl1): 4 images, 2559 chars
+- [How to setup exception master](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/how-to-setup-exception-master--zytdivz6): 1 images, 309 chars
+- [How to sort orders based on various criteria](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/how-to-sort-orders-based-on-various-criteria--jm44jf-l): 4 images, 507 chars
+- [Method 1 : Consignments Dashboard](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/adding-orders-to-a-shelf--xzrwgu2i): 11 images, 1257 chars
+- [Method 1 → Dashboard](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/consignment-in-scanning-at-hub--ksuog7aa): 7 images, 1000 chars
+- [Method 1 → V2 Dashboard](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/close-a-middle-mile-trip--rizrt2kh): 6 images, 752 chars
+- [Method 1 → V2 Dashboard](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/unload-middle-mile-vehicle--ors8aoxi): 7 images, 926 chars
+- [Method 1 → V2 Dashboard](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/gating-out-of-a-vehicle--jccpwizo): 5 images, 845 chars
+- [Method 1 → V2 Dashboard](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/gate-in-of-the-vehicle-at-the-destination-hub--a7eltjnb): 5 images, 916 chars
+- [Method 1 → V2 Dashboard](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/trip-receival-of-the-vehicle--ehoi801t): 6 images, 794 chars
+- [Method 1 → V2 Dashboard](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/create-a-middle-mile-trip--4n2mppwk): 5 images, 957 chars
+- [Method 1 → V2 Dashboard](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/dock-in-of-the-vehicle--e1tanq): 8 images, 1241 chars
+- [Method 1 → V2 Dashboard](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/dock-out-scanning-of-a-vehicle--kjdakola): 5 images, 981 chars
+- [Method 1 → V2 Dashboard](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/loading-and-freezing-of-a-middle-mile-vehicle--r-d2zw2n): 8 images, 1279 chars
+- [Method 1 → V2 Dashboard](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/trip-departure-of-a-vehicle--sznzlg5x): 6 images, 830 chars
+- [Origin Hub](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/end-to-end-middle-mile-process--cbu7hj68): 1 images, 1275 chars
+- [Print Trip Manifest](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/print-trip-manifest--n9cvd8po): 2 images, 439 chars
+- [Removing Orders from a Shelf](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/removing-orders-from-a-shelf--q-3khhif): 1 images, 1 chars
+- [Set up Docks for a Hub](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/set-up-docks-for-a-hub--z2xxubex): 1 images, 132 chars
+- [Set up gates for a Hub](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/set-up-gates-for-a-hub--6hti234c): 1 images, 181 chars
+- [Setup a Bagging Guide](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/setup-a-bagging-guide--uxvmtv7m): 1 images, 703 chars
+- [Shelf Setup](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/shelf-setup--eajsst9c): 1 images, 334 chars
+- [Shelves Management](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/shelves-management--agxpdsfc): 1 images, 330 chars
+- [What is exception?](https://knowledge.shipsy.ai/help/hub-operations-and-mid-mile-management/what-is-exception--lbpp4fqc): 1 images, 401 chars
+
+### Hyperlocal
+
+On-demand delivery management for food, grocery, and quick-commerce
+
+- [Defining Constraints at Multiple Levels](https://knowledge.shipsy.ai/help/hyperlocal/hyperlocal-auto-allocation--l4ve_4lv): 1 images, 2801 chars
+
+### Route Optimization
+
+Route planning, capacity utilization, and adherence
+
+- [How to edit a Destination Type](https://knowledge.shipsy.ai/help/route-optimization/how-to-edit-a-destination-type--0xpcrjju): 5 images, 543 chars
+- [Introduction](https://knowledge.shipsy.ai/help/route-optimization/understanding-the-routing-playground--mw-bj4hu): 12 images, 14708 chars
+- [The Need for Route Optimisation](https://knowledge.shipsy.ai/help/route-optimization/the-need-for-route-optimisation--m7t4jstd): 1 images, 1831 chars
+- [What is Output Sheet ?](https://knowledge.shipsy.ai/help/route-optimization/how-to-understand-the-output-sheet--qiwowkyr): 2 images, 4130 chars
+
+### Mobile Application
+
+Driver app flows, PODs, and field operations
+
+- [Ad-hoc Pickup](https://knowledge.shipsy.ai/help/mobile-application/adhoc-pickup--4rrpyxzu): 4 images, 929 chars
+- [Delivery - Flow for a rider](https://knowledge.shipsy.ai/help/mobile-application/delivery-flow-for-a-rider--zkf-fbzz): 9 images, 2402 chars
+- [Outstation Scan](https://knowledge.shipsy.ai/help/mobile-application/outstation-scan--qlxym-at): 4 images, 1075 chars
+- [Pick up - Flow for a Driver](https://knowledge.shipsy.ai/help/mobile-application/pick-up-flow-for-a-driver--8nsvwcyd): 7 images, 2408 chars
+- [Rider App - Pickup Consignments](https://knowledge.shipsy.ai/help/mobile-application/rider-app-pickup-consignments--lm0x9m-h): 2 images, 142 chars
+- [Smart Track Online Booking](https://knowledge.shipsy.ai/help/mobile-application/smart-track-online-booking--16oeds7t): 5 images, 890 chars
+
+### Territory Optimisation
+
+Workforce, network, and territory planning
+
+- [Introduction](https://knowledge.shipsy.ai/help/territory-optimisation/territory-optimisation--8b2pirom): 1 images, 2400 chars
+
+### Shipsy BI – Advanced
+
+Analytics, dashboards, and custom reports
+
+- [Shipsy BI - Advanced](https://knowledge.shipsy.ai/help/shipsy-bi-advanced/shipsy-bi-advanced--7dqhsptd): 1 images, 579 chars
+
+### Finance Operations (Advanced)
+
+COD reconciliation, customer remittance, bank deposits
+
+- [Bank Deposit Transactions](https://knowledge.shipsy.ai/help/finance-operations-advanced/bank-deposit-transactions--bd20kxel): 5 images, 1439 chars
+- [Bank Transaction History](https://knowledge.shipsy.ai/help/finance-operations-advanced/bank-transaction-history--zlvrfg-e): 0 images, 907 chars
+- [Digital Payment collection on Rider app](https://knowledge.shipsy.ai/help/finance-operations-advanced/digital-payment-collection-on-rider-app--4fz__j5y): 1 images, 724 chars
+- [Digital Payment Collection on Rider App](https://knowledge.shipsy.ai/help/finance-operations-advanced/digital-payment-collection-on-rider-app--wkl2kzsw): 3 images, 1671 chars
+- [Finance Operations - COD Reconciliation](https://knowledge.shipsy.ai/help/finance-operations-advanced/finance-operations-cod-reconciliation--ydbs7byp): 1 images, 750 chars
+- [Finance Operations - COD Reconciliation (Hyperlocal)](https://knowledge.shipsy.ai/help/finance-operations-advanced/finance-operations-cod-reconciliation-hyperlocal--r8cwxgyy): 1 images, 750 chars
+- [Key Features & Capabilities](https://knowledge.shipsy.ai/help/finance-operations-advanced/finance-operations-customer-remittance--0alrovby): 1 images, 1294 chars
+- [Key Features and Capabilities](https://knowledge.shipsy.ai/help/finance-operations-advanced/introduction-to-cod-management--n_1q4vyq): 1 images, 1846 chars
+- [Key Features and Capabilities](https://knowledge.shipsy.ai/help/finance-operations-advanced/introduction-to-cod-management-hyper-local--izo9gn4p): 1 images, 1919 chars
+- [Remittance](https://knowledge.shipsy.ai/help/finance-operations-advanced/remittance--pqhanxi): 4 images, 826 chars
+- [Rider reconciliation of cash and non cash collections](https://knowledge.shipsy.ai/help/finance-operations-advanced/rider-reconciliation-of-cash-and-non-cash-collections--ier6okvo): 7 images, 1411 chars
+
+### Warehouse Management
+
+Inbound, picking, packing, shelf management, and outbound
+
+- [Customer Master Creation](https://knowledge.shipsy.ai/help/warehouse-management/wmscustomer-master--u5odql4k): 6 images, 1232 chars
+- [SKU Master Creation](https://knowledge.shipsy.ai/help/warehouse-management/wmssku-master--evasvlzy): 4 images, 1430 chars
+- [Stock Difference](https://knowledge.shipsy.ai/help/warehouse-management/stock-difference--furn44xl): 2 images, 1129 chars
+- [Stock mismatch:](https://knowledge.shipsy.ai/help/warehouse-management/stock-and-stock-status-mismatch--39vif22i): 1 images, 719 chars
+- [Supplier Master Creation](https://knowledge.shipsy.ai/help/warehouse-management/wmssupplier-master--atamuqhg): 5 images, 1784 chars
+- [WMS-Inbound- Putaway](https://knowledge.shipsy.ai/help/warehouse-management/wmsinbound-putaway--13g4sxzy): 4 images, 853 chars
+- [WMS-Inbound-Create GRN](https://knowledge.shipsy.ai/help/warehouse-management/wmsinboundcreate-grn--ge38tejr): 7 images, 1771 chars
+- [WMS-Inbound-Create Purchase order](https://knowledge.shipsy.ai/help/warehouse-management/wmsinboundcreate-purchase-order--smhc3cbc): 5 images, 1503 chars
+- [WMS-Inbound-RTV](https://knowledge.shipsy.ai/help/warehouse-management/wmsinboundrtv--4izz62eo): 4 images, 494 chars
+- [WMS-Inbound-Sales Return Putaway](https://knowledge.shipsy.ai/help/warehouse-management/wmsinboundsales-return-putaway--qum7zsfv): 19 images, 3152 chars
+- [WMS-Location Master](https://knowledge.shipsy.ai/help/warehouse-management/wmslocation-master--v3ivj_4m): 12 images, 2170 chars
+
+### EXIM
+
+Container tracking and international import/export workflows
+
+- [EXIM Invoice Module](https://knowledge.shipsy.ai/help/exim/exim-invoice-module--jbh1e_4d): 1 images, 3700 chars
+- [Exim Product Overview](https://knowledge.shipsy.ai/help/exim/exim-product-overview--vhpkq6jo): 1 images, 10135 chars
+- [Exim Shipper Guide](https://knowledge.shipsy.ai/help/exim/exim-shipper-guide--c9ynumt8): 1 images, 222 chars
+- [Generating API Key and Accessing API Header Details in Shipsy](https://knowledge.shipsy.ai/help/exim/generate-api-key-and-access-api-header-details--8anqqnps): 3 images, 1124 chars
+- [Introduction](https://knowledge.shipsy.ai/help/exim/exim-contract-rates-module--ynu9sjdm): 1 images, 4882 chars
+- [Introduction](https://knowledge.shipsy.ai/help/exim/exim-air-cargo-tracking-module--95gbj0da): 1 images, 5154 chars
+- [Introduction](https://knowledge.shipsy.ai/help/exim/exim-manage-tasks-execution-module--rovy3tnj): 1 images, 13500 chars
+- [Introduction](https://knowledge.shipsy.ai/help/exim/exim-vessel-schedules-module--4os0t7aj): 1 images, 6954 chars
+- [Introduction](https://knowledge.shipsy.ai/help/exim/exim-insights-shipsy-bi--qfifbjmu): 1 images, 2452 chars
+- [Module Overview](https://knowledge.shipsy.ai/help/exim/exim-insights-user-guide--dbcmneq2): 5 images, 12706 chars
+- [Shipsy - SAP API Integration Details](https://knowledge.shipsy.ai/help/exim/shipsy-sap-api-integration-details--lqxe0_vj): 1 images, 763 chars
+
+### Finance Operations
+
+Rider cash, third-party reconciliation, transaction history
+
+- [COD Management - Ops dashboard - Transaction History](https://knowledge.shipsy.ai/help/finance-operations/cod-management-ops-dashboard-transaction-history--sb5-fhcm): 3 images, 1144 chars
+- [Navigating to Third Party Reconciliation](https://knowledge.shipsy.ai/help/finance-operations/third-party-transactions--ia_71d2p): 3 images, 475 chars
+- [Navigating to Third Party Reconciliation](https://knowledge.shipsy.ai/help/finance-operations/third-party-reconciliation--x2u-hopj): 3 images, 1130 chars
+- [Rider App COD Settlement](https://knowledge.shipsy.ai/help/finance-operations/rider-app-cod-request-raised--y80bop1z): 3 images, 2159 chars
+- [Rider bank deposit on Rider app](https://knowledge.shipsy.ai/help/finance-operations/rider-bank-deposit-on-rider-app--klhjzhcq): 2 images, 360 chars
+- [Rider transaction History](https://knowledge.shipsy.ai/help/finance-operations/rider-transaction-history--mqd2n5vl): 5 images, 954 chars
+
+### Digital Customer Experience
+
+Branded customer portals and self-service tracking
+
+- [Raven Tracking Link](https://knowledge.shipsy.ai/help/digital-customer-experience/digital-customer-experience--sca4naxu): 1 images, 3769 chars
+
+### Multi-Carrier (Advanced)
+
+Advanced carrier mapping, NDR mapping, custom integrations
+
+- [Key features and benefits](https://knowledge.shipsy.ai/help/multi-carrier-management-advanced/multi-carrier-management-advanced--fjy1sf_k): 1 images, 2076 chars
+
+### Driver & Vehicle (Advanced)
+
+Advanced driver ops, vehicle assignment, compliance
+
+- [Centralised Vendor Management](https://knowledge.shipsy.ai/help/driver-and-vehicle-management-advanced/driver-and-vehicle-management-advanced--3goh4jx9): 1 images, 2007 chars
+- [Definition](https://knowledge.shipsy.ai/help/driver-and-vehicle-management-advanced/rider-management-setup--yi4ncydy): 5 images, 590 chars
+
+### Vendor & Indent Management
+
+Vendor onboarding, indents, and contracts
+
+- [Creating a Trip](https://knowledge.shipsy.ai/help/vendor-and-indent-management/manual-and-automatic-trip-creation-for-vendors--6xwi-gmc): 3 images, 2442 chars
+- [Key Features](https://knowledge.shipsy.ai/help/vendor-and-indent-management/vendor-and-indent-management--eht7nbkf): 1 images, 1268 chars
+- [Manually Upload POD](https://knowledge.shipsy.ai/help/vendor-and-indent-management/customer-pod-upload--3hirv2t8): 4 images, 1737 chars
+- [Manually Uploading POD](https://knowledge.shipsy.ai/help/vendor-and-indent-management/vendor-pod-upload--bywdy8da): 5 images, 1880 chars
+- [Navigating to Carrier Partner Setup](https://knowledge.shipsy.ai/help/vendor-and-indent-management/rate-serviceability-and-tat-masters--himektbj): 4 images, 5474 chars
+- [Navigating to Vendor Setup](https://knowledge.shipsy.ai/help/vendor-and-indent-management/vendor-vehicle-mapping--2np8kdnk): 3 images, 1566 chars
+- [Selecting Consignment Notes](https://knowledge.shipsy.ai/help/vendor-and-indent-management/understanding-the-tms-allocation-engine--mq1cn7zo): 2 images, 3975 chars
+- [Vendor Indent Acceptance](https://knowledge.shipsy.ai/help/vendor-and-indent-management/vendor-indent-acceptance--n58ie11l): 4 images, 1627 chars
+
+### Rates & Contracts
+
+Customer and vendor rate cards, tariff management
+
+- [External APIs for vendor Payout](https://knowledge.shipsy.ai/help/rates-and-contracts/external-apis-for-vendor-payout--imrxkypp): 3 images, 6280 chars
+- [External APIs to manage Invoices](https://knowledge.shipsy.ai/help/rates-and-contracts/external-apis-to-manage-invoices--tzwyaj9n): 1 images, 4605 chars
+- [Invoice generation](https://knowledge.shipsy.ai/help/rates-and-contracts/invoice-generation--y-bueyor): 3 images, 491 chars
+- [Time Period Based Contracts](https://knowledge.shipsy.ai/help/rates-and-contracts/time-period-based-contracts--v7lavp4n): 3 images, 1006 chars
+- [Vendor Payout Calculation](https://knowledge.shipsy.ai/help/rates-and-contracts/vendor-payout-calculation--j6fr9vrb): 9 images, 1157 chars
+- [Vendor Rate Masters](https://knowledge.shipsy.ai/help/rates-and-contracts/vendor-rate-masters--1bioook0): 4 images, 821 chars
+
+### Rider Payout & Incentive
+
+Driver payouts, incentive schemes, performance tracking
+
+- [Key Features](https://knowledge.shipsy.ai/help/rider-payout-and-incentive/rider-payout-and-incentive--dtjpbs4u): 1 images, 1866 chars
+
+### Incident Management (LIA)
+
+Exception handling and logistics incident resolution
+
+- [Incident Management (LIA)](https://knowledge.shipsy.ai/help/incident-management-lia/incident-management-lia--9gacc9li): 1 images, 3942 chars
+
+## Endpoints for LLM agents
+
+- `GET /sitemap.xml` — full URL list
+- `GET /help/<module>/<article>.md` — raw markdown for any article
+- `POST /api/ask` `{ question: string }` — streaming RAG-grounded answer with citations (NDJSON)
+- `GET /api/search?q=...` — hybrid keyword+semantic search returning JSON

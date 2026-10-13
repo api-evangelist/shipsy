@@ -1,0 +1,125 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Shipsy Website AI Endpoint",
+    "description": "This spec describes the public AI chat endpoint that powers the Iris assistant on shipsy.ai. It is not the Shipsy logistics platform API.\n\nShipsy's enterprise logistics API (TMS, WMS, AgentFleet, Route Optimization, Multi-Carrier Management) is private and available to customers and integration partners under a signed agreement. To enquire about API access, integration partnerships, or developer documentation for the logistics platform, contact us at https://www.shipsy.ai/contact-us or visit https://knowledge.shipsy.ai.",
+    "version": "1.0.0",
+    "contact": {
+      "name": "Shipsy",
+      "url": "https://www.shipsy.ai/contact-us",
+      "email": "contact@shipsy.io"
+    }
+  },
+  "externalDocs": {
+    "description": "Shipsy Knowledge Base — product documentation for the logistics platform",
+    "url": "https://knowledge.shipsy.ai"
+  },
+  "servers": [
+    {
+      "url": "https://www.shipsy.ai",
+      "description": "Production"
+    }
+  ],
+  "paths": {
+    "/api/iris": {
+      "post": {
+        "operationId": "irisChat",
+        "summary": "Iris — Shipsy website AI assistant",
+        "description": "The conversational AI assistant embedded on shipsy.ai. Answers questions about Shipsy's products, capabilities, customer outcomes, and logistics use cases. Grounded in Shipsy's knowledge base — does not answer general questions outside logistics and supply chain.",
+        "tags": ["Website AI"],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["messages"],
+                "properties": {
+                  "messages": {
+                    "type": "array",
+                    "description": "Conversation history in standard chat format.",
+                    "items": {
+                      "type": "object",
+                      "required": ["role", "content"],
+                      "properties": {
+                        "role": {
+                          "type": "string",
+                          "enum": ["user", "assistant"]
+                        },
+                        "content": {
+                          "type": "string"
+                        }
+                      }
+                    },
+                    "example": [{ "role": "user", "content": "What is AgentFleet?" }]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful response from the Iris assistant",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "response": {
+                      "type": "string",
+                      "description": "The assistant's reply."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request — missing or malformed messages array",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/Error" }
+              }
+            }
+          },
+          "405": {
+            "description": "Method not allowed — only POST is accepted",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/Error" }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal error",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/Error" }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Error": {
+        "type": "object",
+        "properties": {
+          "error": {
+            "type": "string",
+            "description": "Human-readable error message."
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Website AI",
+      "description": "AI assistant endpoints for the shipsy.ai website. Not the logistics platform API."
+    }
+  ]
+}

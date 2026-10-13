@@ -1,0 +1,16 @@
+generated: '2026-10-13'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://knowledge.shipsy.ai/help/exim/generate-api-key-and-access-api-header-details--8anqqnps
+sources:
+- https://knowledge.shipsy.ai/help/exim/generate-api-key-and-access-api-header-details--8anqqnps
+- https://knowledge.shipsy.ai/help/core-platform/how-to-add-new-adm-auth--gmv0bldw
+- https://knowledge.shipsy.ai/help/core-platform/how-to-create-coordinator-auth-rule--un1xsv_a
+- https://knowledge.shipsy.ai/help/core-platform/how-to-delete-adm-auth--s9hcahuv
+description: Authentication details as published on Shipsy knowledge base.
+schemes:
+- type: apiKey
+  name: API Key
+  evidence: The API key is a unique identifier that allows your system to authenticate and securely communicate with our platform.
+  how_to_obtain: Generate via admin user in Shipsy Exim account as described in the "Generating API Key" guide.
+docs: https://knowledge.shipsy.ai/help/exim/generate-api-key-and-access-api-header-details--8anqqnps

@@ -1,0 +1,19 @@
+{
+  "provider": "shipsy",
+  "sources": [
+    "shipsy-openapi.json"
+  ],
+  "outputs": [
+    "shipsy-website-ai-api-openapi.yml"
+  ],
+  "archived": [
+    "archived openapi/shipsy-openapi.json"
+  ],
+  "errors": [],
+  "warnings": [],
+  "notes": [
+    "shipsy-openapi.json: upgraded openapi 3.0.3 -> OpenAPI 3.2.0",
+    "apis.yml register: written (+1 apis, 1 total)"
+  ],
+  "skipped": []
+}

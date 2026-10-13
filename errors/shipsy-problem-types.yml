@@ -1,0 +1,34 @@
+generated: '2026-10-13'
+method: derived
+generator: derive-problem-types.py
+source:
+- openapi/shipsy-openapi.json
+format: custom
+envelope:
+  media_type: application/json
+  schema: Error
+coverage:
+  operations: 1
+  statuses_declared: 3
+problems:
+- status: 400
+  title: Bad Request
+  description: Bad request — missing or malformed messages array
+  operations: 1
+  media_types:
+  - application/json
+  schema: Error
+- status: 405
+  title: Method Not Allowed
+  description: Method not allowed — only POST is accepted
+  operations: 1
+  media_types:
+  - application/json
+  schema: Error
+- status: 500
+  title: Internal Server Error
+  description: Internal error
+  operations: 1
+  media_types:
+  - application/json
+  schema: Error

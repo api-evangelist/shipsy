@@ -1,0 +1,32 @@
+generated: '2026-10-13'
+method: probed
+source: https://www.shipsy.ai/privacy-policy
+signals:
+  data_retention:
+    note: states retention period policy
+    evidence:
+      - source: https://www.shipsy.ai/privacy-policy
+        http_status: 200
+        fetched: /tmp/privacy.html
+        quote: "We retain your personal data only as long as necessary to fulfil the purposes described in this policy, comply with legal obligations, resolve disputes, and enforce agreements. When data is no longer needed, it is securely deleted or anonymised."
+  subprocessors:
+    note: lists subprocessors with contractual obligations
+    evidence:
+      - source: https://www.shipsy.ai/privacy-policy
+        http_status: 200
+        fetched: /tmp/privacy.html
+        quote: "Service providers — hosting, analytics, CRM, and email service providers who process data on our behalf under strict contractual obligations"
+  data_residency:
+    note: mentions data residency controls
+    evidence:
+      - source: https://www.shipsy.ai/privacy-policy
+        http_status: 200
+        fetched: /tmp/privacy.html
+        quote: "Infrastructure hosted on enterprise‑grade cloud providers with data residency controls"
+  incident_notification:
+    note: indicates monitoring for security incidents
+    evidence:
+      - source: https://www.shipsy.ai/privacy-policy
+        http_status: 200
+        fetched: /tmp/privacy.html
+        quote: "Detect and prevent fraud or security incidents"

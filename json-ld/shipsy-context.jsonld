@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://shipsy.io/schema#",
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "shipsy": "https://shipsy.io/schema#",
+    "Error": "shipsy:Error",
+    "error": {
+      "@id": "shipsy:error",
+      "@type": "xsd:string"
+    }
+  },
+  "@type": "schema:Dataset",
+  "schema:name": "Shipsy API JSON-LD context",
+  "schema:description": "A JSON-LD @context for the objects Shipsy's own API contract declares: one class per component schema, one property per declared field, typed from the contract. Derived by script (derive-json-ld.py, 2026-10-13) from openapi/shipsy-openapi.json.",
+  "dcterms:created": "2026-10-13",
+  "dcterms:source": [
+    "openapi/shipsy-openapi.json"
+  ]
+}

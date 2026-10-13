@@ -1,0 +1,20 @@
+generated: '2026-10-13'
+method: derived
+generator: derive-vocabulary.py
+source: openapi/shipsy-openapi.json
+vocabulary:
+  name: Shipsy Domain Vocabulary
+  description: 'Terms declared by Shipsy''s own API contract: its resource groups, objects and enumerations, with the contract''s definitions.
+    Derived, not authored.'
+  version: '2026-10-13'
+  terms:
+  - term: Website AI
+    definition: AI assistant endpoints for the shipsy.ai website. Not the logistics platform API.
+    tags:
+    - Resource Group
+    source: openapi/shipsy-openapi.json
+  - term: Error
+    definition: 'Object declared by the contract with fields: error.'
+    tags:
+    - Object
+    source: openapi/shipsy-openapi.json#/components/schemas/Error
